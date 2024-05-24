@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Servicemen>
+  <Serviceman>
+    <Name>Іванов Іван Іванович</Name>
+    <Rank>Солдат</Rank>
+    <EnlistmentDate>2014-01-15</EnlistmentDate>
+    <DischargeDate>2016-01-15</DischargeDate>
+    <MilitaryUnit>Військова частина 12345</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Петров Петро Петрович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2014-03-10</EnlistmentDate>
+    <DischargeDate>2017-03-10</DischargeDate>
+    <MilitaryUnit>Військова частина 98765</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Сидоров Сидір Сидорович</Name>
+    <Rank>Молодший солдат</Rank>
+    <EnlistmentDate>2014-05-20</EnlistmentDate>
+    <DischargeDate>2017-05-20</DischargeDate>
+    <MilitaryUnit>Військова частина 54321</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Ковальов Олександр Васильович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2014-04-10</EnlistmentDate>
+    <DischargeDate>2016-04-10</DischargeDate>
+    <MilitaryUnit>Військова частина 13579</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Федоров Василь Іванович</Name>
+    <Rank>Рядовий</Rank>
+    <EnlistmentDate>2014-05-15</EnlistmentDate>
+    <DischargeDate>2016-05-15</DischargeDate>
+    <MilitaryUnit>Військова частина 24680</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Морозов Михайло Петрович</Name>
+    <Rank>Старший лейтенант</Rank>
+    <EnlistmentDate>2014-06-20</EnlistmentDate>
+    <DischargeDate>2016-06-20</DischargeDate>
+    <MilitaryUnit>Військова частина 98765</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Козлов Віктор Олегович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2014-07-25</EnlistmentDate>
+    <DischargeDate>2016-07-25</DischargeDate>
+    <MilitaryUnit>Військова частина 54321</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Олійник Ігор Юрійович</Name>
+    <Rank>Капітан</Rank>
+    <EnlistmentDate>2014-08-30</EnlistmentDate>
+    <DischargeDate>2016-08-30</DischargeDate>
+    <MilitaryUnit>Військова частина 12345</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Павлюк Андрій Васильович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2014-09-05</EnlistmentDate>
+    <DischargeDate>2016-09-05</DischargeDate>
+    <MilitaryUnit>Військова частина 86420</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Лисенко Олексій Іванович</Name>
+    <Rank>Молодший лейтенант</Rank>
+    <EnlistmentDate>2014-11-15</EnlistmentDate>
+    <DischargeDate>2016-11-15</DischargeDate>
+    <MilitaryUnit>Військова частина 24680</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Карпенко Анатолій Вікторович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2014-12-20</EnlistmentDate>
+    <DischargeDate>2016-12-20</DischargeDate>
+    <MilitaryUnit>Військова частина 97531</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Шевченко Віталій Миколайович</Name>
+    <Rank>Рядовий</Rank>
+    <EnlistmentDate>2014-01-25</EnlistmentDate>
+    <DischargeDate>2016-01-25</DischargeDate>
+    <MilitaryUnit>Військова частина 86420</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Мельник Василь Олегович</Name>
+    <Rank>Капітан</Rank>
+    <EnlistmentDate>2014-02-28</EnlistmentDate>
+    <DischargeDate>2016-02-28</DischargeDate>
+    <MilitaryUnit>Військова частина 12345</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Кузьменко Максим Олександрович</Name>
+    <Rank>Рядовий</Rank>
+    <EnlistmentDate>2014-05-20</EnlistmentDate>
+    <DischargeDate>2016-05-20</DischargeDate>
+    <MilitaryUnit>Військова частина 86420</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Ткаченко Сергій Васильович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2014-07-30</EnlistmentDate>
+    <DischargeDate>2016-07-30</DischargeDate>
+    <MilitaryUnit>Військова частина 13579</MilitaryUnit>
+  </Serviceman>
+</Servicemen>

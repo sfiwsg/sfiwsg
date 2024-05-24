@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Servicemen>
+  <Serviceman>
+    <Name>Петренко Олександр Васильович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2017-03-10</EnlistmentDate>
+    <DischargeDate>2019-03-10</DischargeDate>
+    <MilitaryUnit>Військова частина 10234</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Коваленко Марина Олександрівна</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2017-06-05</EnlistmentDate>
+    <DischargeDate>2019-06-05</DischargeDate>
+    <MilitaryUnit>Військова частина 57983</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Савченко Андрій Юрійович</Name>
+    <Rank>Рядовий</Rank>
+    <EnlistmentDate>2017-02-15</EnlistmentDate>
+    <DischargeDate>2019-02-15</DischargeDate>
+    <MilitaryUnit>Військова частина 23456</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Євдокімов Ігор Анатолійович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2017-11-30</EnlistmentDate>
+    <DischargeDate>2019-11-30</DischargeDate>
+    <MilitaryUnit>Військова частина 65789</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Михайленко Лариса Вікторівна</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2017-07-20</EnlistmentDate>
+    <DischargeDate>2019-07-20</DischargeDate>
+    <MilitaryUnit>Військова частина 34567</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Козлов Максим Степанович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2017-04-25</EnlistmentDate>
+    <DischargeDate>2019-04-25</DischargeDate>
+    <MilitaryUnit>Військова частина 89012</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Васильєва Ірина Володимирівна</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2017-10-10</EnlistmentDate>
+    <DischargeDate>2019-10-10</DischargeDate>
+    <MilitaryUnit>Військова частина 45678</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Попов Олексій Миколайович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2017-09-05</EnlistmentDate>
+    <DischargeDate>2019-09-05</DischargeDate>
+    <MilitaryUnit>Військова частина 12345</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Ткаченко Олена Василівна</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2017-08-15</EnlistmentDate>
+    <DischargeDate>2019-08-15</DischargeDate>
+    <MilitaryUnit>Військова частина 23456</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Мартиненко Артем Валерійович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2017-05-20</EnlistmentDate>
+    <DischargeDate>2019-05-20</DischargeDate>
+    <MilitaryUnit>Військова частина 56789</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Петренко Олексій Ігорович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2017-12-01</EnlistmentDate>
+    <DischargeDate>2019-12-01</DischargeDate>
+    <MilitaryUnit>Військова частина 67890</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Григорова Вікторія Анатоліївна</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2017-03-01</EnlistmentDate>
+    <DischargeDate>2019-03-01</DischargeDate>
+    <MilitaryUnit>Військова частина 34567</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Кузнецов Олег Олександрович</Name>
+    <Rank>Рядовий</Rank>
+    <EnlistmentDate>2017-10-15</EnlistmentDate>
+    <DischargeDate>2019-10-15</DischargeDate>
+    <MilitaryUnit>Військова частина 45678</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Мельник Юлія Павлівна</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2017-06-15</EnlistmentDate>
+    <DischargeDate>2019-06-15</DischargeDate>
+    <MilitaryUnit>Військова частина 89012</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Ковальов Віталій Сергійович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2017-11-20</EnlistmentDate>
+    <DischargeDate>2019-11-20</DischargeDate>
+    <MilitaryUnit>Військова частина 56789</MilitaryUnit>
+  </Serviceman>
+</Servicemen>

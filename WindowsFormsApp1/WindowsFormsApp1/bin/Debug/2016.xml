@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Servicemen>
+  <Serviceman>
+    <Name>Петров Сергій Васильович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2016-01-10</EnlistmentDate>
+    <DischargeDate>2018-01-10</DischargeDate>
+    <MilitaryUnit>Військова частина 12345</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Кузьменко Денис Іванович</Name>
+    <Rank>Рядовий</Rank>
+    <EnlistmentDate>2016-02-20</EnlistmentDate>
+    <DischargeDate>2018-02-20</DischargeDate>
+    <MilitaryUnit>Військова частина 98765</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Біленький Віктор Віталійович</Name>
+    <Rank>Старшина</Rank>
+    <EnlistmentDate>2016-03-08</EnlistmentDate>
+    <DischargeDate>2018-03-08</DischargeDate>
+    <MilitaryUnit>Військова частина 56789</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Мироненко Артем Олексійович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2016-04-15</EnlistmentDate>
+    <DischargeDate>2018-04-15</DischargeDate>
+    <MilitaryUnit>Військова частина 32156</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Сидоренко Ігор Васильович</Name>
+    <Rank>Капрал</Rank>
+    <EnlistmentDate>2016-05-02</EnlistmentDate>
+    <DischargeDate>2018-05-02</DischargeDate>
+    <MilitaryUnit>Військова частина 78569</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Кравчук Олег Олегович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2016-06-19</EnlistmentDate>
+    <DischargeDate>2018-06-19</DischargeDate>
+    <MilitaryUnit>Військова частина 45678</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Коваль Ігор Сергійович</Name>
+    <Rank>Старший лейтенант</Rank>
+    <EnlistmentDate>2016-07-28</EnlistmentDate>
+    <DischargeDate>2018-07-28</DischargeDate>
+    <MilitaryUnit>Військова частина 89567</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Лисенко Олександр Ігорович</Name>
+    <Rank>Лейтенант</Rank>
+    <EnlistmentDate>2016-08-11</EnlistmentDate>
+    <DischargeDate>2018-08-11</DischargeDate>
+    <MilitaryUnit>Військова частина 23654</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Бондар Андрій Вікторович</Name>
+    <Rank>Майор</Rank>
+    <EnlistmentDate>2016-09-07</EnlistmentDate>
+    <DischargeDate>2018-09-07</DischargeDate>
+    <MilitaryUnit>Військова частина 75894</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Михайленко Володимир Степанович</Name>
+    <Rank>Капітан</Rank>
+    <EnlistmentDate>2016-10-15</EnlistmentDate>
+    <DischargeDate>2018-10-15</DischargeDate>
+    <MilitaryUnit>Військова частина 45879</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Єгоров Олексій Петрович</Name>
+    <Rank>Майор</Rank>
+    <EnlistmentDate>2016-11-24</EnlistmentDate>
+    <DischargeDate>2018-11-24</DischargeDate>
+    <MilitaryUnit>Військова частина 98654</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Тимченко Андрій Іванович</Name>
+    <Rank>Майор</Rank>
+    <EnlistmentDate>2016-12-30</EnlistmentDate>
+    <DischargeDate>2018-12-30</DischargeDate>
+    <MilitaryUnit>Військова частина 85423</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Попов Віталій Петрович</Name>
+    <Rank>Підполковник</Rank>
+    <EnlistmentDate>2016-02-05</EnlistmentDate>
+    <DischargeDate>2018-02-05</DischargeDate>
+    <MilitaryUnit>Військова частина 74598</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Козлов Василь Олександрович</Name>
+    <Rank>Полковник</Rank>
+    <EnlistmentDate>2016-04-11</EnlistmentDate>
+    <DischargeDate>2018-04-11</DischargeDate>
+    <MilitaryUnit>Військова частина 36985</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Даниленко Михайло Павлович</Name>
+    <Rank>Генерал</Rank>
+    <EnlistmentDate>2016-06-25</EnlistmentDate>
+    <DischargeDate>2018-06-25</DischargeDate>
+    <MilitaryUnit>Військова частина 45896</MilitaryUnit>
+  </Serviceman>
+</Servicemen>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Servicemen>
+  <Serviceman>
+    <Name>Петров Олександр Олегович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2018-03-10</EnlistmentDate>
+    <DischargeDate>2020-03-10</DischargeDate>
+    <MilitaryUnit>Військова частина 12345</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Сидорова Олена Вікторівна</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2018-04-05</EnlistmentDate>
+    <DischargeDate>2020-04-05</DischargeDate>
+    <MilitaryUnit>Військова частина 54321</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Іванов Петро Ігорович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2018-05-15</EnlistmentDate>
+    <DischargeDate>2020-05-15</DischargeDate>
+    <MilitaryUnit>Військова частина 98765</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Ковальчук Марія Олександрівна</Name>
+    <Rank>Солдат</Rank>
+    <EnlistmentDate>2018-06-20</EnlistmentDate>
+    <DischargeDate>2020-06-20</DischargeDate>
+    <MilitaryUnit>Військова частина 13579</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Шевченко Андрій Васильович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2018-07-12</EnlistmentDate>
+    <DischargeDate>2020-07-12</DischargeDate>
+    <MilitaryUnit>Військова частина 24680</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Павленко Тетяна Олександрівна</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2018-08-04</EnlistmentDate>
+    <DischargeDate>2020-08-04</DischargeDate>
+    <MilitaryUnit>Військова частина 86420</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Семененко Сергій Петрович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2018-09-21</EnlistmentDate>
+    <DischargeDate>2020-09-21</DischargeDate>
+    <MilitaryUnit>Військова частина 75309</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Морозова Ірина Олексіївна</Name>
+    <Rank>Солдат</Rank>
+    <EnlistmentDate>2018-10-17</EnlistmentDate>
+    <DischargeDate>2020-10-17</DischargeDate>
+    <MilitaryUnit>Військова частина 01234</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Литвиненко Дмитро Володимирович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2018-11-05</EnlistmentDate>
+    <DischargeDate>2020-11-05</DischargeDate>
+    <MilitaryUnit>Військова частина 97531</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Бойко Олексій Павлович</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2018-12-08</EnlistmentDate>
+    <DischargeDate>2020-12-08</DischargeDate>
+    <MilitaryUnit>Військова частина 46823</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Руденко Людмила Василівна</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2018-12-20</EnlistmentDate>
+    <DischargeDate>2020-12-20</DischargeDate>
+    <MilitaryUnit>Військова частина 23095</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Іванченко Вікторія Володимирівна</Name>
+    <Rank>Солдат</Rank>
+    <EnlistmentDate>2018-09-29</EnlistmentDate>
+    <DischargeDate>2020-09-29</DischargeDate>
+    <MilitaryUnit>Військова частина 86420</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Кучеренко Олег Іванович</Name>
+    <Rank>Молодший сержант</Rank>
+    <EnlistmentDate>2018-11-14</EnlistmentDate>
+    <DischargeDate>2020-11-14</DischargeDate>
+    <MilitaryUnit>Військова частина 75309</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Полякова Анастасія Олександрівна</Name>
+    <Rank>Сержант</Rank>
+    <EnlistmentDate>2018-10-03</EnlistmentDate>
+    <DischargeDate>2020-10-03</DischargeDate>
+    <MilitaryUnit>Військова частина 01234</MilitaryUnit>
+  </Serviceman>
+  <Serviceman>
+    <Name>Щербак Володимир Михайлович</Name>
+    <Rank>Старший сержант</Rank>
+    <EnlistmentDate>2018-07-31</EnlistmentDate>
+    <DischargeDate>2020-07-31</DischargeDate>
+    <MilitaryUnit>Військова частина 46823</MilitaryUnit>
+  </Serviceman>
+</Servicemen>
